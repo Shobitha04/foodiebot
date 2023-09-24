@@ -1,0 +1,19 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: wavy;
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-kawaii-food-collection_23-2149412058.jpg?w=2000");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-weight: bolder;
+    
+}
+.options{
+
+text-decoration: wavy;
+font-style: italic;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
