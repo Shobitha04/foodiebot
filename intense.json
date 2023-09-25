@@ -1,0 +1,10 @@
+{"intents":  [
+{"tag":  "greetings",
+"patterns": ["hello","hey","hi","good day","greetings","howdy","what's up"],
+"responses": ["hello","hey","what can I do for you?"]
+},
+{"tag":  "name",
+"patterns": ["name?","what do I call you?","your name?","what's your name?"],
+"responses": ["You can call me nomnom","I am nomnom!","Nomnom here!!"]
+}
+]}
